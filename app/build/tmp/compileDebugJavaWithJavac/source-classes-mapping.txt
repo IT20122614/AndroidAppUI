@@ -1,0 +1,4 @@
+com/example/uiapp/MainActivity.java
+ com.example.uiapp.MainActivity
+com/example/uiapp/BuildConfig.java
+ com.example.uiapp.BuildConfig
